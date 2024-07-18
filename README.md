@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate Data Analytic from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-dahiya&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-dahiya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay-dahiya" alt="vijay-dahiya" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 💬 Ask me about **Android, Kotlin**
+- 💬 Ask me about **Python, Sql, Excel, Power Bi**
 
 - 📫 How to reach me **yd811822@gmail.com**
 
