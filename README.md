@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Dahiya</h1>
 <h3 align="center">A passionate Data Analytic from India</h3>
 
-<img align="right" alt="Coding" width="500" src="https://www.freecodecamp.org/news/content/images/2024/01/data-analyst-article.png
+<img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2024/01/data-analyst-article.png
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y-dahiya&label=Profile%20views&color=0e75b6&style=flat" alt="y-dahiya" /> </p>
