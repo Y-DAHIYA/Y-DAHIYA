@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Dahiya</h1>
-<h3 align="center">A Data Analyst with a computer science degree. I specialize in analyzing datasets, deriving insights, and creating visualizations. I'm proficient in various data analysis tools and programming languages. Let's connect and collaborate!</h3>
+<h3 align="center">A Data Analyst with a computer science degree, specializing in analyzing datasets, deriving insights, and creating visualizations. Proficient in various data analysis tools and programming languages. Open to connections and collaborations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y-dahiya&label=Profile%20views&color=0e75b6&style=flat" alt="y-dahiya" /> </p>
 
